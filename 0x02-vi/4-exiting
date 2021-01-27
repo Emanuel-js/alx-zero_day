@@ -1,0 +1,2 @@
+First, press the Esc key a few times. This will ensure vi is out of Insert mode and in Command mode.
+Second, type :q! and press Enter. This tells vi to quit without saving any changes. (If you do want to save your changes, type :wq instead.)
