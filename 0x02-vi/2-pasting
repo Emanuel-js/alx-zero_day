@@ -1,0 +1,5 @@
+Press the ESC key to be sure you are in vi Command mode.
+Place the cursor on the line you wish to copy.
+Type yy to copy the line.
+Move the cursor to the place you wish to insert the copied line.
+Type p to insert the copied line after the current line on which the cursor is resting or type P to insert the copied line before the current line.
