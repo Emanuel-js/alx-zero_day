@@ -1,0 +1,4 @@
+Press the Esc key to go to normal mode.
+Place the cursor on the line you want to delete.
+Type dd and hit Enter to remove the line.
+Pressing dd multiple times will delete multiple lines.
